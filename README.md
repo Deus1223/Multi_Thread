@@ -7,5 +7,5 @@ make
 
 *Run* 
 ```
-./multi_thread loops_counts threads_counts
+./multi_thread 100000000 3
 ```
